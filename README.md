@@ -12,5 +12,10 @@ JSON
 
 python controle_caixa.py
 
+## Estrutura do projeto
+-Controle de Caixa em Python.py
+-README.md
+-dados_financeiros.json
+
 ## Autor
 Projeto desenvolvido por Jeffs como parte do aprendizado em Análise e Desenvolvimento de Sistemas.
